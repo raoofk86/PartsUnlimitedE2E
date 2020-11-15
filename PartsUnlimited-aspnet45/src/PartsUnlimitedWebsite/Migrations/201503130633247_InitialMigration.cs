@@ -10,7 +10,7 @@ namespace PartsUnlimitedWebsite.Migrations
         
         public override void Up(MigrationBuilder migrationBuilder)
         {
-            //Up
+            //Up code
             migrationBuilder.CreateTable("AspNetRoles",
                 c => new
                     {
