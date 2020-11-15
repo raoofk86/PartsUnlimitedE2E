@@ -7,8 +7,10 @@ namespace PartsUnlimitedWebsite.Migrations
 {
     public partial class InitialMigration : Migration
     {
+        
         public override void Up(MigrationBuilder migrationBuilder)
         {
+            //Up
             migrationBuilder.CreateTable("AspNetRoles",
                 c => new
                     {
