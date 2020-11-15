@@ -5,6 +5,8 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //Release branch for review
+        
         public int CategoryId { get; set; }
 
         [Required]
